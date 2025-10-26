@@ -57,7 +57,7 @@ git clone https://github.com/Khushi-yadav8757/powerbi-ecommerce-dashboard.git
 
 **Khushi Yadav**
 
-* Email: [your-email@example.com](mailto:your-email@example.com)
+* Email: [mail to]:khushiyad152@gmail.com)
 * LinkedIn: [Khushi Yadav](https://www.linkedin.com/in/khushi-yadav8757/)
 * GitHub: [Khushi-yadav8757](https://github.com/Khushi-yadav8757)
 
