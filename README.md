@@ -36,52 +36,9 @@ This project is aimed at visualizing e-commerce data to help businesses make dat
 3. Refresh the dataset or connect to your own data source.
 4. Explore the interactive dashboard and export reports as needed.
 
----
 
-## 🖼️ Screenshots
-
-![Dashboard Screenshot](https://github.com/Khushi-yadav8757/powerbi-ecommerce-dashboard/blob/a5f8cb219d2829c72cd4a9c22d219407bd7e54be/Screenshot%202025-10-25%20160241.png)
-
----
-
-## 🔗 Links
-
-* **LinkedIn:** [Khushi Yadav](https://www.linkedin.com/in/khushi-yadav8757/)
 * **GitHub Repository:** [GitHub Link](https://github.com/Khushi-yadav8757/powerbi-ecommerce-dashboard)
 
----
-
-## 📚 Learnings
-
-* Gained hands-on experience with Power BI dashboards.
-* Improved data visualization and storytelling skills.
-* Learned how to preprocess data using Python and SQL.
-* Enhanced ability to derive actionable insights from raw data.
-
----
-
-## ✨ Future Improvements
-
-* Add predictive analytics using Python ML models.
-* Integrate live data from e-commerce APIs.
-* Implement user role-based access for dynamic dashboards.
-
----
-
-## 📞 Contact
-
-**Khushi Yadav**
-
-* Email: [your-email@example.com](mailto:your-email@example.com)
-* LinkedIn: [Khushi Yadav](https://www.linkedin.com/in/khushi-yadav8757/)
-* GitHub: [Khushi-yadav8757](https://github.com/Khushi-yadav8757)
-
-```
-
-I can also make an **even more visually appealing version** with badges for technologies, GitHub stars, LinkedIn, and “Made with 💻” section that looks professional and modern.  
-
-Do you want me to do that version too?
-```
 
 ````
 
