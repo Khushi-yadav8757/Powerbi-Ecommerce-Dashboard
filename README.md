@@ -1,17 +1,27 @@
 # 🚀 E-Commerce Dashboard
 
-A modern, interactive **Power BI dashboard** to analyze e-commerce data, track sales performance, and generate actionable insights.
+A modern, interactive **Power BI dashboard** providing a complete view of e-commerce business performance — from total sales, profit, and quantity to state-wise distribution, payment modes, and monthly profit trends.
 
 ## 📝 About the Project
-This project visualizes e-commerce data to help businesses make **data-driven decisions**.  
-It includes interactive charts, filters, and KPIs for revenue, orders, products, and customer behavior.
+This dashboard helps businesses analyze their performance and make **data-driven decisions**.  
+It includes interactive visuals, calculated metrics using DAX, and a clean layout for easy exploration of key insights:
+
+- **Total Sales, Profit, and Quantity**  
+- **Profit by Month**  
+- **State-wise and Category-wise Sales**  
+- **Payment Mode Distribution**  
+
+---
 
 ## 🛠️ Features
-- Interactive charts for sales, revenue, and orders  
-- Visualize top products and categories  
-- Analyze customer behavior and trends  
+- Interactive charts for total sales, profit, and quantity  
+- Monthly profit trends and performance analysis  
+- State-wise and category-wise sales visualization  
+- Payment mode distribution analysis  
 - Dynamic filtering and drill-down capabilities  
-- Export reports in multiple formats  
+- Professional and clean dashboard layout  
+
+---
 
 ## 🧰 Tech Stack
 - **Power BI** – Dashboard creation and data visualization  
@@ -19,12 +29,14 @@ It includes interactive charts, filters, and KPIs for revenue, orders, products,
 - **SQL** – Data querying and analysis  
 - **Excel** – Data manipulation and reporting  
 
+---
+
 ## 💻 Installation & Usage
 1. Clone the repository:  
 ```bash
 git clone https://github.com/Khushi-yadav8757/powerbi-ecommerce-dashboard.git
-
 ```
+
 2. Open the Power BI Desktop file (`.pbix`) included in the repository.
 3. Refresh the dataset or connect to your own data source.
 4. Explore the interactive dashboard and export reports as needed.
