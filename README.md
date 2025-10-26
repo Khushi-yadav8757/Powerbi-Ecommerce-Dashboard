@@ -49,10 +49,11 @@ git clone https://github.com/Khushi-yadav8757/powerbi-ecommerce-dashboard.git
 
 ## 📚 Learnings
 
-* Gained hands-on experience with Power BI dashboards
-* Improved data visualization and storytelling skills
-* Learned data preprocessing using Python and SQL
-* Enhanced ability to derive actionable insights from raw data
+* Data cleaning and modeling for better visualization
+* Creating calculated metrics using DAX
+* Designing interactive visuals and filters
+* Using different chart types for effective storytelling
+* Building a professional and clean dashboard layout
 
 ## ✨ Future Improvements
 
