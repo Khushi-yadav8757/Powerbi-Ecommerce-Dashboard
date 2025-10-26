@@ -24,6 +24,7 @@ It includes interactive charts, filters, and KPIs for revenue, orders, products,
 ```bash
 git clone https://github.com/Khushi-yadav8757/powerbi-ecommerce-dashboard.git
 
+```
 2. Open the Power BI Desktop file (`.pbix`) included in the repository.
 3. Refresh the dataset or connect to your own data source.
 4. Explore the interactive dashboard and export reports as needed.
